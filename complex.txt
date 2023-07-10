@@ -1,0 +1,10 @@
+#fruits
+
+pear
+apple
+
+#veggies
+
+carrot
+kale
+peppers
